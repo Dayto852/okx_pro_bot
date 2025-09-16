@@ -1,0 +1,8 @@
+PyQt5
+PyQtWebEngine
+plotly
+pandas
+numpy
+ccxt
+ta
+python-dotenv
