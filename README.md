@@ -10,3 +10,4 @@ cp .env.example .env  # заполнить ключи и токены
 python main.py
 ```
 Команды: /start /balance /positions /history /setpair SYMBOL
+# okx_pro_bot
