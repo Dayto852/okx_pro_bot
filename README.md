@@ -12,3 +12,4 @@ python main.py
 Команды: /start /balance /positions /history /setpair SYMBOL
 # okx_pro_bot
 # okx_pro_bot
+# okx_pro_bot
